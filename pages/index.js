@@ -4,6 +4,6 @@ import Head from 'next/head';
 
 export default function Home() {
   return (
-  <Layout>Homepage</Layout>
+  <Layout title="Home page">Home page</Layout>
   );
 }
